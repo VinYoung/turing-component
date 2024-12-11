@@ -1,0 +1,32 @@
+{
+    "name": "@vinyoung/turing-components",
+    "version": "1.0.0",
+    "main": "components/index.js",
+    "description": "A modern React UI component library with gradient styles and smooth animations",
+    "keywords": [
+        "react",
+        "components",
+        "ui",
+        "antd",
+        "styled-components",
+        "turing"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "files": [
+        "components"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VinYoung/turing-component.git"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^4.8.0",
+        "antd": "^4.24.0",
+        "styled-components": "^5.3.6"
+    },
+    "peerDependencies": {
+        "react": ">=16.8.0",
+        "react-dom": ">=16.8.0"
+    }
+}
